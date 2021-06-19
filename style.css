@@ -49,3 +49,17 @@
 .carousel-caption h4{
     font-size:40px;
 }
+
+/* About Section */
+#about {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.progress{
+    border-radius: 16px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+.progress-bar{
+    border-radius: 16px;
+}
